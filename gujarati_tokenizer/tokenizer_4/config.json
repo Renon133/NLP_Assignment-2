@@ -1,0 +1,11 @@
+{
+    "model_type": "bpe",
+    "vocab_size": 32768,
+    "special_tokens": [
+        "<pad>",
+        "<unk>",
+        "<s>",
+        "</s>",
+        "<mask>"
+    ]
+}
